@@ -23,11 +23,11 @@ Hi, my name is Daniel and I make things, mostly with code, and sometimes even wi
 
 You can find my website and blog [here](https://masterof.dev/), although my posting schedule is...erratic.
 
-I primarily either work with TypeScript/JavaScript, CSS and HTML if working on web software, or C# (and Visual Basic.NET if required) for desktop software and games. My primary game engine is [Unity](https://unity.com/), but I have a fair bit of experience with both [Godot](https://godotengine.org/) and [Unreal Engine](https://www.unrealengine.com/) too.
+I primarily either work with TypeScript/JavaScript, CSS and HTML if working on web software, or C# (and Visual Basic.NET if required) for desktop software and games. My primary game engine is [Godot 4](https://godotengine.org/), but I have a fair bit of experience with both [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/) too.
 
 My editor is either Visual Studio or Visual Studio Code, depending on project and need. I am (unfortunately) a Windows first developer, but I have cross OS development experience covering Mac and Linux too, and I'm not shy about working for those systems.
 
-I'm currently working on a game as part of [NovaDawn Studios](https://github.com/NovaDawn-Studios), which will include open source software such as [MarkDialogue](https://github.com/NovaDawn-Studios/MarkDialogue), a MarkDown-to-Dialogue system for Unity, allowing the game's writers to write dialogue logic in a familiar style, yet have it work in the game immediately.
+I'm currently working on a game as part of [NovaDawn Studios](https://github.com/NovaDawn-Studios), which will include open source software such as [MarkDialogue](https://github.com/NovaDawn-Studios/MarkDialogue), a MarkDown-to-Dialogue system for Godot, allowing the game's writers to write dialogue logic in a familiar style, yet have it work in the game immediately.
 
 <p align="center">
   <a href="https://app.daily.dev/danm36">
